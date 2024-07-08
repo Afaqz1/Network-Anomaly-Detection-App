@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Traffic Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <style>
+        body {
+            padding-top: 50px;
+        }
+        .container {
+            max-width: 1000px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Network Traffic Dashboard</h1>
+        <h3>Visualizations</h3>
+        <img src="{{ url_for('plot', plot_name='packet_length_distribution') }}" class="img-fluid" alt="Packet Length Distribution">
+        <img src="{{ url_for('plot', plot_name='protocol_distribution') }}" class="img-fluid" alt="Protocol Distribution">
+        <img src="{{ url_for('plot', plot_name='time_series_packet_length') }}" class="img-fluid" alt="Time Series Packet Length">
+        <img src="{{ url_for('plot', plot_name='anomalies') }}" class="img-fluid" alt="Anomalies">
+        <a href="/" class="btn btn-primary btn-block mt-4">Go Back</a>
+    </div>
+</body>
+</html>

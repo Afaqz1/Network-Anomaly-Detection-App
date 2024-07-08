@@ -1,0 +1,220 @@
+2024-07-03 23:14:18,000 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-03 23:14:18,000 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-03 23:14:18,019 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-03 23:14:22,654 - WARNING -  * Debugger is active!
+2024-07-03 23:14:22,655 - INFO -  * Debugger PIN: 143-396-479
+2024-07-03 23:17:01,332 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:01] "GET / HTTP/1.1" 200 -
+2024-07-03 23:17:01,631 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:01] "[33mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2024-07-03 23:17:01,800 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-03 23:17:02,805 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:02] "GET / HTTP/1.1" 200 -
+2024-07-03 23:17:03,058 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:03] "[33mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2024-07-03 23:17:06,818 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:06] "GET / HTTP/1.1" 200 -
+2024-07-03 23:17:07,086 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:07] "[33mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2024-07-03 23:17:07,333 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:07] "GET / HTTP/1.1" 200 -
+2024-07-03 23:17:07,575 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:07] "[33mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2024-07-03 23:17:14,653 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-07-03 23:17:14,668 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:14] "GET /traffic/<interface> HTTP/1.1" 200 -
+2024-07-03 23:17:15,458 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-03 23:17:20,066 - WARNING -  * Debugger is active!
+2024-07-03 23:17:20,069 - INFO -  * Debugger PIN: 143-396-479
+2024-07-03 23:17:24,462 - INFO - 127.0.0.1 - - [03/Jul/2024 23:17:24] "GET /traffic/<interface> HTTP/1.1" 200 -
+2024-07-03 23:19:09,321 - INFO - 127.0.0.1 - - [03/Jul/2024 23:19:09] "GET / HTTP/1.1" 200 -
+2024-07-03 23:19:09,467 - INFO - 127.0.0.1 - - [03/Jul/2024 23:19:09] "[33mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+2024-07-03 23:22:47,420 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-03 23:22:47,420 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-03 23:22:47,431 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-03 23:22:51,346 - WARNING -  * Debugger is active!
+2024-07-03 23:22:51,347 - INFO -  * Debugger PIN: 143-396-479
+2024-07-03 23:23:05,477 - INFO - 127.0.0.1 - - [03/Jul/2024 23:23:05] "GET / HTTP/1.1" 200 -
+2024-07-03 23:23:05,643 - INFO - 127.0.0.1 - - [03/Jul/2024 23:23:05] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-07-03 23:23:23,460 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-07-03 23:23:23,461 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\scapy\\sendrecv.py', reloading
+2024-07-03 23:23:23,462 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\scapy\\arch\\libpcap.py', reloading
+2024-07-03 23:23:23,464 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\scapy\\arch\\windows\\__init__.py', reloading
+2024-07-03 23:23:23,472 - INFO - 127.0.0.1 - - [03/Jul/2024 23:23:23] "GET /traffic/<interface> HTTP/1.1" 200 -
+2024-07-03 23:23:24,501 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-03 23:23:29,539 - WARNING -  * Debugger is active!
+2024-07-03 23:23:29,540 - INFO -  * Debugger PIN: 143-396-479
+2024-07-03 23:23:58,183 - INFO - 127.0.0.1 - - [03/Jul/2024 23:23:58] "GET /traffic/Wi-Fi HTTP/1.1" 200 -
+2024-07-03 23:24:02,578 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:02] "POST /detect HTTP/1.1" 200 -
+2024-07-03 23:24:02,676 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:02] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-03 23:24:02,706 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:02] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-03 23:24:02,707 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:02] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-03 23:24:02,710 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:02] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-03 23:24:02,711 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:02] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-03 23:24:38,993 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:38] "GET / HTTP/1.1" 200 -
+2024-07-03 23:24:39,139 - INFO - 127.0.0.1 - - [03/Jul/2024 23:24:39] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-03 23:58:19,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-03 23:58:19,358 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-03 23:58:19,375 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-03 23:58:24,618 - WARNING -  * Debugger is active!
+2024-07-03 23:58:24,625 - INFO -  * Debugger PIN: 143-396-479
+2024-07-03 23:58:55,748 - INFO - 127.0.0.1 - - [03/Jul/2024 23:58:55] "GET / HTTP/1.1" 200 -
+2024-07-03 23:58:55,992 - INFO - 127.0.0.1 - - [03/Jul/2024 23:58:55] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-07-03 23:58:56,045 - INFO - 127.0.0.1 - - [03/Jul/2024 23:58:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-03 23:59:01,725 - INFO - 127.0.0.1 - - [03/Jul/2024 23:59:01] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-07-04 00:00:12,752 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:12] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-07-04 00:00:19,619 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:19] "GET / HTTP/1.1" 200 -
+2024-07-04 00:00:19,734 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:19] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:00:25,234 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:25] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:00:25,363 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:25] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:00:25,568 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:25] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:00:25,568 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:25] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:00:25,574 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:25] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:00:25,575 - INFO - 127.0.0.1 - - [04/Jul/2024 00:00:25] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:00:37,647 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2024-07-04 00:00:37,661 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2024-07-04 00:00:37,762 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2024-07-04 00:00:37,785 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2024-07-04 00:00:37,809 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2024-07-04 00:00:37,814 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2024-07-04 00:00:37,826 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2024-07-04 00:00:38,494 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:00:43,842 - WARNING -  * Debugger is active!
+2024-07-04 00:00:43,846 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:01:09,469 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:01:09,475 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:01:09,476 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:01:09,476 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:01:10,414 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:01:15,410 - WARNING -  * Debugger is active!
+2024-07-04 00:01:15,412 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:01:29,707 - INFO -  * Detected change in 'C:\\Users\\A\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py', reloading
+2024-07-04 00:01:30,798 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:01:37,541 - WARNING -  * Debugger is active!
+2024-07-04 00:01:37,545 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:01:53,094 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:53] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:01:53,223 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:53] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-07-04 00:01:53,259 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:53] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:01:53,261 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:53] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:01:53,263 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:53] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:01:53,267 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:53] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:01:56,332 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:56] "GET / HTTP/1.1" 200 -
+2024-07-04 00:01:56,428 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:56] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:01:58,369 - INFO - 127.0.0.1 - - [04/Jul/2024 00:01:58] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-07-04 00:03:28,246 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:28] "GET / HTTP/1.1" 200 -
+2024-07-04 00:03:28,330 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:28] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-07-04 00:03:32,641 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:32] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:03:32,757 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:32] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:03:33,043 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:33] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:03:33,044 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:33] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:03:33,051 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:33] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:03:33,054 - INFO - 127.0.0.1 - - [04/Jul/2024 00:03:33] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:03:49,918 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:03:49,919 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:03:49,920 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:03:49,920 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:03:50,445 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:12:37,591 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-04 00:12:37,591 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 00:12:37,604 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:12:42,087 - WARNING -  * Debugger is active!
+2024-07-04 00:12:42,090 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:13:42,708 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:42] "GET / HTTP/1.1" 200 -
+2024-07-04 00:13:42,921 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:42] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:13:48,396 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:48] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:13:48,545 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:48] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:13:48,712 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:48] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:13:48,713 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:48] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:13:48,716 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:48] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:13:48,717 - INFO - 127.0.0.1 - - [04/Jul/2024 00:13:48] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:14:06,810 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:06] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-07-04 00:14:10,725 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:10] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-07-04 00:14:15,126 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:15] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-07-04 00:14:15,619 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:15] "GET /traffic/<interface> HTTP/1.1" 200 -
+2024-07-04 00:14:16,283 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:16] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:14:16,368 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:16] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:14:16,508 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:16] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:14:16,509 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:16] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:14:16,511 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:16] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:14:16,512 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:16] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:14:25,059 - INFO - 127.0.0.1 - - [04/Jul/2024 00:14:25] "GET /traffic/Wi-Fi HTTP/1.1" 200 -
+2024-07-04 00:17:31,925 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:17:31,926 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:17:31,932 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:17:31,933 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\Network_Traffic_and_Anomly_Detection.py', reloading
+2024-07-04 00:17:33,562 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:17:38,383 - WARNING -  * Debugger is active!
+2024-07-04 00:17:38,386 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:18:29,185 - INFO - 127.0.0.1 - - [04/Jul/2024 00:18:29] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:18:29,336 - INFO - 127.0.0.1 - - [04/Jul/2024 00:18:29] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-07-04 00:18:29,431 - INFO - 127.0.0.1 - - [04/Jul/2024 00:18:29] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:18:29,432 - INFO - 127.0.0.1 - - [04/Jul/2024 00:18:29] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:18:29,432 - INFO - 127.0.0.1 - - [04/Jul/2024 00:18:29] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:18:29,440 - INFO - 127.0.0.1 - - [04/Jul/2024 00:18:29] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:18:32,998 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:18:32,999 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:18:33,007 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:18:33,008 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:18:34,413 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:19:13,109 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-04 00:19:13,109 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 00:19:13,132 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:19:18,232 - WARNING -  * Debugger is active!
+2024-07-04 00:19:18,235 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:19:44,431 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:19:44,439 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:19:44,439 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:19:44,875 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:19:51,920 - WARNING -  * Debugger is active!
+2024-07-04 00:19:51,923 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:21:50,913 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:21:50,920 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:21:50,921 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:21:50,921 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\app.py', reloading
+2024-07-04 00:21:51,323 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:21:56,443 - WARNING -  * Debugger is active!
+2024-07-04 00:21:56,446 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:22:05,170 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:05] "GET / HTTP/1.1" 200 -
+2024-07-04 00:22:05,386 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:05] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:22:18,404 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:18] "POST /detect HTTP/1.1" 200 -
+2024-07-04 00:22:18,524 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:18] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:22:18,697 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:18] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 00:22:18,697 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:18] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 00:22:18,697 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:18] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 00:22:18,698 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:18] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 00:22:27,243 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:27] "GET / HTTP/1.1" 200 -
+2024-07-04 00:22:27,435 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:27] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:22:28,867 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:28] "GET /dashboard HTTP/1.1" 200 -
+2024-07-04 00:22:29,148 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:29] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:22:29,270 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:29] "[36mGET /plot/packet_length_distribution HTTP/1.1[0m" 304 -
+2024-07-04 00:22:29,272 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:29] "[36mGET /plot/protocol_distribution HTTP/1.1[0m" 304 -
+2024-07-04 00:22:29,274 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:29] "[36mGET /plot/time_series_packet_length HTTP/1.1[0m" 304 -
+2024-07-04 00:22:29,276 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:29] "[36mGET /plot/anomalies HTTP/1.1[0m" 304 -
+2024-07-04 00:22:35,352 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:35] "GET / HTTP/1.1" 200 -
+2024-07-04 00:22:35,499 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:35] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 00:22:37,353 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-07-04 00:22:37,365 - INFO - 127.0.0.1 - - [04/Jul/2024 00:22:37] "GET /traffic/<interface> HTTP/1.1" 200 -
+2024-07-04 00:22:38,840 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 00:22:43,960 - WARNING -  * Debugger is active!
+2024-07-04 00:22:43,963 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 00:23:11,850 - INFO - 127.0.0.1 - - [04/Jul/2024 00:23:11] "GET /traffic/Wi-Fi HTTP/1.1" 200 -
+2024-07-04 10:03:58,405 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-04 10:03:58,407 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 10:03:58,428 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 10:04:04,217 - WARNING -  * Debugger is active!
+2024-07-04 10:04:04,224 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 10:04:04,354 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:04] "GET / HTTP/1.1" 200 -
+2024-07-04 10:04:04,558 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:04] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 10:04:10,888 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:10] "POST /detect HTTP/1.1" 200 -
+2024-07-04 10:04:10,963 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:10] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 10:04:11,058 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:11] "GET /plot/packet_length_distribution HTTP/1.1" 200 -
+2024-07-04 10:04:11,060 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:11] "GET /plot/protocol_distribution HTTP/1.1" 200 -
+2024-07-04 10:04:11,062 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:11] "GET /plot/time_series_packet_length HTTP/1.1" 200 -
+2024-07-04 10:04:11,064 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:11] "GET /plot/anomalies HTTP/1.1" 200 -
+2024-07-04 10:04:20,486 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:20] "[31m[1mGET /block_ip HTTP/1.1[0m" 405 -
+2024-07-04 10:04:36,741 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:36] "GET / HTTP/1.1" 200 -
+2024-07-04 10:04:36,933 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:36] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-07-04 10:04:38,819 - INFO -  * Detected change in 'C:\\Users\\A\\Downloads\\Compressed\\Anomaly-Detection-main\\Anomaly-Detection-main\\myenv\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+2024-07-04 10:04:38,834 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:38] "GET /traffic/<interface> HTTP/1.1" 200 -
+2024-07-04 10:04:40,357 - INFO -  * Restarting with watchdog (windowsapi)
+2024-07-04 10:04:46,172 - WARNING -  * Debugger is active!
+2024-07-04 10:04:46,179 - INFO -  * Debugger PIN: 143-396-479
+2024-07-04 10:04:46,423 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:46] "GET /traffic/Wi-Fi HTTP/1.1" 200 -
+2024-07-04 10:04:55,498 - INFO - 127.0.0.1 - - [04/Jul/2024 10:04:55] "[31m[1mGET /block_ip HTTP/1.1[0m" 405 -

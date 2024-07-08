@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Traffic Stream</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <style>
+        body {
+            padding-top: 50px;
+        }
+        .container {
+            max-width: 800px;
+        }
+        .traffic-stream {
+            height: 400px;
+            overflow-y: scroll;
+            border: 1px solid #ddd;
+            padding: 10px;
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Live Traffic Stream for {{ interface }}</h1>
+        <div class="traffic-stream" id="trafficStream"></div>
+        <a href="/" class="btn btn-primary btn-block mt-4">Go Back</a>
+    </div>
+    <script>
+        const eventSource = new EventSource('/traffic/{{ interface }}');
+        const trafficStream = document.getElementById('trafficStream');
+
+        eventSource.onmessage = function(event) {
+            const paragraph = document.createElement('p');
+            paragraph.textContent = event.data;
+            trafficStream.appendChild(paragraph);
+            trafficStream.scrollTop = trafficStream.scrollHeight;
+        };
+    </script>
+</body>
+</html>

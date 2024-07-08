@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Traffic Anomaly Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <style>
+        body {
+            padding-top: 50px;
+        }
+        .container {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Network Traffic Anomaly Detection</h1>
+        <form action="/detect" method="post">
+            <div class="form-group">
+                <label for="interface">Select Network Interface:</label>
+                <select class="form-control" id="interface" name="interface">
+                    {% for name, ip in interfaces.items() %}
+                    <option value="{{ name }}">{{ name }}: {{ ip }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Detect Anomalies</button>
+        </form>
+        <a href="/dashboard" class="btn btn-info btn-block">View Dashboard</a>
+        <a href="/traffic/<interface>" class="btn btn-secondary btn-block">View Live Traffic</a>
+    </div>
+</body>
+</html>
